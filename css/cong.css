@@ -1,0 +1,14 @@
+.box{
+  background-color: white;
+  border-radius: 15px;
+  border: 6px solid #ffbd50;
+  width: 400px;
+  margin: auto;
+  padding: 60px 0;
+}
+h2{
+  font-weight: bold;
+}
+h4 span{
+  font-weight: 600;
+}
